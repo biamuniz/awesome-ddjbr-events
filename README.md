@@ -1,2 +1,2 @@
 # recursos-ddj
-Levantamento de recursos apresentados em eventos de jornalismo e dados no Brasil
+Levantamento de materiais (slides, sites, códigos, etc) apresentados em eventos de jornalismo e dados no Brasil
