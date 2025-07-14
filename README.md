@@ -1,1 +1,1 @@
-Levantamento de materiais (slides, sites, códigos, etc) apresentados em eventos de jornalismo e dados no Brasil
+Levantamento de eventos sobre jornalismo de dados (e áreas relacionadas) realizados no Brasil, com links para materiais apresentados — como slides, sites, códigos e outros recursos.
