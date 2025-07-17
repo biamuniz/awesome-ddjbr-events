@@ -91,7 +91,7 @@
 ### 17° Congresso da Abraji/4º Domingo de Dados
 
 -   **'Jornalismo de dados para mudar realidades'**, por Bianca Muniz, Elena Wesley, Graziela França. *Links:* [material 1](https://docs.google.com/presentation/d/1K0YNPrz9mdQ82fq7Er4RZ6jt7cJYqnsi63Q5iLJk4tM/edit?usp=sharing)
--   **'Python para automatização'**, por NA. *Links:* [material 1](https://github.com/python-abraji-2022/python-para-automatizacao-abraji-2022)
+-   **'Python para automatização'**. *Links:* [material 1](https://github.com/python-abraji-2022/python-para-automatizacao-abraji-2022)
 
 
 ## 2021
