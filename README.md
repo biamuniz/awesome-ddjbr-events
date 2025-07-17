@@ -1,5 +1,5 @@
 # 🇧🇷 Awesome DDJ Br Events 🇧🇷
-## Repositório em construção -- compreensão, hein
+## Repositório em constante construção
 > Levantamento de eventos sobre jornalismo de dados (e áreas relacionadas) realizados no Brasil, com links para materiais apresentados — como slides, sites, códigos e outros recursos. Por enquanto, o resultado tá sendo atualizado mais rapidamente [aqui](https://docs.google.com/spreadsheets/d/1hYCv1YWEcMYAnLB1lJNfa_FZFXr4iEejK0YeFd5cw00/edit?usp=sharing), mas vai ficar melhor.
 
 🎯 **Foco**: eventos, conferências, oficinas, painéis e encontros relevantes para a comunidade de DDJ no Brasil.
