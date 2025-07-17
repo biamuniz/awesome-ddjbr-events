@@ -2,7 +2,7 @@
 ## Repositório em construção -- compreensão, hein
 > Levantamento de eventos sobre jornalismo de dados (e áreas relacionadas) realizados no Brasil, com links para materiais apresentados — como slides, sites, códigos e outros recursos. Por enquanto, o resultado tá sendo atualizado mais rapidamente [aqui](https://docs.google.com/spreadsheets/d/1hYCv1YWEcMYAnLB1lJNfa_FZFXr4iEejK0YeFd5cw00/edit?usp=sharing), mas vai ficar melhor.
 
-🎯 Foco: eventos, conferências, oficinas, painéis e encontros relevantes para a comunidade de DDJ no Brasil.
+🎯 **Foco**: eventos, conferências, oficinas, painéis e encontros relevantes para a comunidade de DDJ no Brasil.
 
 ---
 
@@ -19,10 +19,7 @@
   - [2018](#2018)
 - [Eventos Recorrentes](#eventos-recorrentes)
 - [Organizações e Coletivos](#organizações-e-coletivos)
-- [Recursos Extras](#recursos-extras)
 - [Contribuindo](#contribuindo)
-- [Licença](#licença)
-
 ---
 
 ## Eventos por Ano
@@ -217,7 +214,7 @@
 - **Festival 3i** – Evento voltado à inovação no jornalismo, com foco em novas narrativas, sustentabilidade e jornalismo independente
 - **Cerveja com Dados** – Encontros informais e descontraídos da comunidade de jornalismo de dados. A proposta é reunir profissionais e estudantes para compartilhar projetos, experiências e aprendizados — geralmente com uma cerveja na mão.
 - **Congresso da Abraji** – Realizado pela Associação Brasileira de Jornalismo Investigativo, é um dos principais encontros de jornalismo do país. Inclui trilhas de jornalismo de dados, investigação digital, acesso à informação, entre outros temas.
-- **Domingo de Dados** – 
+- **Domingo de Dados** – Evento dentro do Congresso da Abraji, consiste em um dia de programação dedicada ao jornalismo de dados e suas aplicações práticas.
 
 ---
 
@@ -225,6 +222,7 @@
 
 - [Open Knowledge Brasil](https://ok.org.br/)
 - [Escola de Dados](https://escoladedados.org/)
+- [Associação Brasileira de Jornalismo Investigativo - Abraji](https://abraji.org.br/)
 
 
 ---
