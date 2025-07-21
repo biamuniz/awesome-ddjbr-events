@@ -90,6 +90,19 @@
 -   **'Jornalismo de dados para mudar realidades'**, por Bianca Muniz, Elena Wesley, Graziela França. *Links:* [material 1](https://docs.google.com/presentation/d/1K0YNPrz9mdQ82fq7Er4RZ6jt7cJYqnsi63Q5iLJk4tM/edit?usp=sharing)
 -   **'Python para automatização'**. *Links:* [material 1](https://github.com/python-abraji-2022/python-para-automatizacao-abraji-2022)
 
+### CODA Amazônia
+- **Dados sem caô: analisando a representatividade de candidaturas eleitorais**, por Paulo Mota, Samantha Reis. *Links*: [material 1](https://escoladedados.org/coda-amazonia-workshop-dados-sem-cao-analisando-representatividade-de-candidaturas-eleitorais/), [material 2](http://bit.ly/codapara)
+- **Bingo dos dados abertos: o maior prêmio é a transparência**, por Fernanda Campagnucci. *Links*: [material 1](https://escoladedados.org/coda-amazonia-workshop-bingo-dos-dados-abertos-o-maior-premio-e-a-transparencia/), [material 2](https://bit.ly/bingodados)
+- **Meu primeiro mapa: trabalhando com dados espaciais**, por Alice Adativa. *Links*: [material 1](https://escoladedados.org/coda/coda-amazonia/coda-amazonia-workshop-meu-primeiro-mapa-trabalhando-com-dados-espaciais/), [material 2](https://drive.google.com/drive/folders/1hetFYPKDz9R-aMzWY4vj8kswSiHZu1w-)
+- **Introdução a análise de dados com Pandas**, por Anicely Santos, Juliany Raiol. *Links*: [material 1](https://docs.google.com/presentation/d/1sTHbwhNV82DyEFqZHTpjJZDP8gAPY4oOMzOkKfHQre8/edit?usp=drivesdk), [material 2](https://escoladedados.org/coda/coda-amazonia-workshop-introducao-a-analise-de-dados-com-pandas/)
+- **Quando a planilha trava: trabalhando com bases de dados massivas**, por Jailson Pereira. *Links*: [material 1](https://escoladedados.org/coda-amazonia-workshop-quando-a-planilha-trava-trabalhando-com-bases-de-dados-massivas/), [material 2](https://github.com/jailsonpj/CodaAmazonia)
+- **Conheça o Diário do Clima, seu novo aliado na investigação de políticas ambientais**, por Ariane Alves, Giulio Carvalho. *Links*: [material 1](https://escoladedados.org/coda-amazonia-workshop-conheca-o-querido-diario-seu-novo-aliado-na-investigacao-de-politicas-ambientais/), [material 2](https://www.canva.com/design/DAFHK7AgCJ4/nAlX-DglAvZ5xmooUPaetg/view?utm_content=DAFHK7AgCJ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#19)
+- **Jornalismo de dados hoje: experiência e prática**, por Adriano Belisário. *Links*: [material 1](https://escoladedados.org/coda/coda-amazonia-workshop-jornalismo-de-dados-hoje-experiencia-e-pratica/)
+- **Segurança digital e alternativas às big techs**, por Luiz Sanches, Marcelo Sá. *Links*: [material 1](https://escoladedados.org/coda/coda-amazonia-workshop-seguranca-digital-e-alternativas-as-big-techs/)
+- **Mapas e AI: como investigar dados georreferenciados**, por Hyury Potter. *Links*: [material 1](https://escoladedados.org/coda-amazonia-workshop-mapas-ai/)
+- **Mudanças climáticas e dados ambientais**, por Cesar Diniz, Bárbara Zimbres. *Links*: [material 1](https://escoladedados.org/coda-amazonia-workshop-mudancas-climaticas-e-dados-ambientais/)
+- **Kit de ferramentas para defensores da Terra**, por Luandro Vieira. *Links*: [material 1](https://escoladedados.org/coda-amazonia-workshop-kit-de-ferramentas-para-defensores-da-terra/)
+- **Do céu ao solo: geojornalismo com dados de queimadas e desmatamento**, por Gustavo Faleiros, Juliana Mori. *Links*: [material 1](https://escoladedados.org/coda-amazonia-workshop-do-ceu-ao-solo-geojornalismo-com-dados-de-queimadas-e-desmatamento/)
 
 ## 2021
 
